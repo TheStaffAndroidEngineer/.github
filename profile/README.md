@@ -2,7 +2,7 @@
 
 Runnable, MIT-licensed source for every chapter of *The Staff Android Engineer: Designing, Diagnosing, and Evolving Android Systems* by Rajesh Pattanaik, a book for experienced Android developers preparing for staff, principal, lead and architect work and interviews.
 
-**Book, free sample chapters and purchase:** [thestaffandroidengineer.com](https://thestaffandroidengineer.com/)
+**Book, free sample chapters and purchase:** [thestaffandroidengineer.com](https://thestaffandroidengineer.com/?utm_source=github&utm_medium=referral&utm_campaign=launch-2026-10)
 
 ## Start here
 
